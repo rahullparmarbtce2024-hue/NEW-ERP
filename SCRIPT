@@ -1,0 +1,4 @@
+mkdir -p /home/claude/erp/{backend/{app/{models,schemas,routers,services,core,utils},alembic/versions},frontend/{src/{components/{common,layout},pages/{auth,dashboard,employees,inventory,sales,purchases,accounting},services,hooks,utils},public}}
+Output
+
+exit code 0
